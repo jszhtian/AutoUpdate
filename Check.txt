@@ -1,2 +1,1 @@
-Version=1
-UPDURL=https://github.com/jszhtian/AutoUpdate/
+Version1UPDURLhttps://github.com/jszhtian/AutoUpdate/
